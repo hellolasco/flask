@@ -32,6 +32,12 @@
          the application will greet you on
          http://localhost:5000/
 
+    ~ For Mac OSX:
+    1. export FLASK_APP=flaskr/flaskr.pu
+    2. flask initdb
+    3. flask run
+       http://localhost:5000/
+
     ~ Is it tested?
 
       You betcha.  Run `python setup.py test` to see
